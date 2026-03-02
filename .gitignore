@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+
+# artifacts
+models/*.joblib
+models/*.pkl
+data/
